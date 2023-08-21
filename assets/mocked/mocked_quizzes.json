@@ -1,0 +1,176 @@
+{
+  "questionario": {
+    "id": 1,
+    "titulo": "Natureza brasileira",
+    "questoes": [
+      {
+        "id": 1,
+        "titulo": "Florestas brasileiras",
+        "pergunta": "Qual o nome da maior floresta brasileira?",
+        "gabarito": 4,
+        "alternativas": [
+          {
+            "id": 1,
+            "titulo": "Caatinga"
+          },
+          {
+            "id": 2,
+            "titulo": "Cerrado"
+          },
+          {
+            "id": 3,
+            "titulo": "Mata Atlântica"
+          },
+          {
+            "id": 4,
+            "titulo": "Amazônica"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "Praias brasileiras",
+        "pergunta": "Qual estado tem a maior faixa litorânea?",
+        "gabarito": 3,
+        "alternativas": [
+          {
+            "id": 1,
+            "titulo": "São Paulo"
+          },
+          {
+            "id": 2,
+            "titulo": "Maranhão"
+          },
+          {
+            "id": 3,
+            "titulo": "Bahia"
+          },
+          {
+            "id": 4,
+            "titulo": "Rio de Janeiro"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Biomas brasileiros",
+        "pergunta": "Qual é o nome do bioma brasileiro conhecido por ser uma savana com árvores esparsas?",
+        "gabarito": 2,
+        "alternativas": [
+          {
+            "id": 1,
+            "titulo": "Mata Atlântica"
+          },
+          {
+            "id": 2,
+            "titulo": "Cerrado"
+          },
+          {
+            "id": 3,
+            "titulo": "Pantanal"
+          },
+          {
+            "id": 4,
+            "titulo": "Caatinga"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "titulo": "Biodiversidade",
+        "pergunta": "Qual região do Brasil abriga a maior biodiversidade do mundo, com uma grande quantidade de espécies endêmicas?",
+        "gabarito": 3,
+        "alternativas": [
+          {
+            "id": 1,
+            "titulo": "Pampa"
+          },
+          {
+            "id": 2,
+            "titulo": "Caatinga"
+          },
+          {
+            "id": 3,
+            "titulo": "Mata Atlântica"
+          },
+          {
+            "id": 4,
+            "titulo": "Cerrado"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "titulo": "Recursos Hídricos",
+        "pergunta": "Qual é o maior rio do Brasil e também o segundo mais longo do mundo?",
+        "gabarito": 4,
+        "alternativas": [
+          {
+            "id": 1,
+            "titulo": "Rio São Francisco"
+          },
+          {
+            "id": 2,
+            "titulo": "Rio Paraná"
+          },
+          {
+            "id": 3,
+            "titulo": "Rio Tietê"
+          },
+          {
+            "id": 4,
+            "titulo": "Rio Amazonas"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "titulo": "Conservação",
+        "pergunta": "Qual é a maior unidade de conservação de proteção integral no Brasil, localizada na região amazônica?",
+        "gabarito": 1,
+        "alternativas": [
+          {
+            "id": 1,
+            "titulo": "Parque Nacional do Jaú"
+          },
+          {
+            "id": 2,
+            "titulo": "Parque Nacional da Serra dos Órgãos"
+          },
+          {
+            "id": 3,
+            "titulo": "Parque Nacional de Iguaçu"
+          },
+          {
+            "id": 4,
+            "titulo": "Parque Nacional da Chapada dos Veadeiros"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "titulo": "Espécies Ameaçadas",
+        "pergunta": "Qual é o maior felino das Américas e está ameaçado de extinção?",
+        "gabarito": 3,
+        "alternativas": [
+          {
+            "id": 1,
+            "titulo": "Onça-pintada"
+          },
+          {
+            "id": 2,
+            "titulo": "Jaguatirica"
+          },
+          {
+            "id": 3,
+            "titulo": "Onça-vermelha"
+          },
+          {
+            "id": 4,
+            "titulo": "Gato-maracajá"
+          }
+        ]
+      }
+    ]
+  }
+}
