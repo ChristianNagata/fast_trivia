@@ -46,6 +46,8 @@ class _HomePageState extends State<HomePage> {
               ),
             )
           : ListView.builder(
+              reverse: true,
+              shrinkWrap: true,
               padding: const EdgeInsets.all(24),
               itemCount: notifier.history.length,
               itemBuilder: (BuildContext context, int index) {
